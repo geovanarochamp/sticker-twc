@@ -1,5 +1,5 @@
 isGreen = true
-isflip = false
+isflip = true
 
 function changeCard() {
     const card = document.querySelector(".card")
